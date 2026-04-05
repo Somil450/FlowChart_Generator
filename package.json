@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "@babel/parser": "^7.29.2",
+    "@babel/traverse": "^7.29.0",
+    "@google/generative-ai": "^0.24.1",
+    "acorn": "^8.16.0",
+    "body-parser": "^2.2.2",
+    "concurrently": "^9.2.1",
+    "cors": "^2.8.6",
+    "esgraph": "^0.3.0",
+    "express": "^5.2.1",
+    "lucide-react": "^1.7.0",
+    "mermaid": "^11.14.0",
+    "multer": "^2.1.1",
+    "peggy": "^5.1.0",
+    "reactflow": "^11.11.4",
+    "tree-sitter-wasms": "^0.1.13",
+    "web-tree-sitter": "^0.26.8",
+    "zustand": "^5.0.12"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
